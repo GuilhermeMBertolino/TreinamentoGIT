@@ -1,0 +1,7 @@
+## Aqui você pode colocar arquivos que não serão enviados para o repositório remoto
+
+# Módulos
+/node_modules
+
+# Arquivos de configuração
+.env
